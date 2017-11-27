@@ -1,5 +1,8 @@
 {
-    "name": "twig/twig",
+    "name": "twig@iglue/twig",
+    "replace": {
+        "twig/twig": "v1.35.0"
+    },
     "type": "library",
     "description": "Twig, the flexible, fast, and secure template language for PHP",
     "keywords": ["templating"],
